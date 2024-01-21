@@ -1,9 +1,15 @@
 .ccls-cache/
 .deps/
 .replit
+stamp-h1
+autom4te.cache
+Makefile
 Makefile.in
 aclocal.m4
 compile
+config.h
+config.log
+config.status
 config.h.in
 config.h.in~
 configure
@@ -16,3 +22,6 @@ missing
 replit.nix
 src/*.o
 src/Makefile.in
+src/Makefile
+src/hello
+sec/bye
